@@ -2,8 +2,7 @@
 
 ##Author
 
-Hülya Sevcan
+Hülya Sevcan Daimagüler
 
 ##Date
-
-04.02.2020
+2020-02-02

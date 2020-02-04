@@ -2,7 +2,8 @@
 
 ##Author
 
-sssHülya Sevcan Daimagüler
+Hülya S. Daimagüler
+Köln
 
 ##Date
 2020-02-02
